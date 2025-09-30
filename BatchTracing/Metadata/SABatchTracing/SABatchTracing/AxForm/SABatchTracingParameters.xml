@@ -191,6 +191,9 @@ public class SABatchTracingParameters extends FormRun
 					<DataField>SchedulingPriorityIsOverridden</DataField>
 				</AxFormDataSourceField>
 				<AxFormDataSourceField>
+					<DataField>SysFindTraceFormSortDesc</DataField>
+				</AxFormDataSourceField>
+				<AxFormDataSourceField>
 					<DataField>TableId</DataField>
 				</AxFormDataSourceField>
 				<AxFormDataSourceField>
@@ -532,5 +535,4 @@ public class SABatchTracingParameters extends FormRun
 		</Controls>
 	</Design>
 	<Parts />
-
 </AxForm>
